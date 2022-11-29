@@ -1,2 +1,2 @@
-app text
+app main
 app description
